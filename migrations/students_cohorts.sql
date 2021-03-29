@@ -1,5 +1,5 @@
 -- psql
--- \c bootcampx to reach db
+-- \c bootcampx
 
 CREATE TABLE cohorts 
 (id SERIAL PRIMARY KEY NOT NULL, 
